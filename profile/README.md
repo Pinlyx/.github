@@ -50,16 +50,16 @@ On top of the inbox sit AI-powered lead scoring, automated outreach sequences, a
 
 | SDK | Language | Status | Repo |
 |---|---|---|---|
-| `pinlyx-dotnet` | C# / .NET 8+ | Alpha | [CRM-Solid/pinlyx-dotnet](https://github.com/CRM-Solid/pinlyx-dotnet) |
+| `pinlyx-dotnet` | C# / .NET 8+ | Alpha | [Pinlyx/pinlyx-dotnet](https://github.com/Pinlyx/pinlyx-dotnet) |
 | `pinlyx-python` | Python 3.10+ | Planned | _coming soon_ |
 | `pinlyx-node` | TypeScript / Node 20+ | Planned | _coming soon_ |
-| `pinlyx-mcp` | TypeScript (MCP server) | Alpha | [CRM-Solid/pinlyx-mcp](https://github.com/CRM-Solid/pinlyx-mcp) |
+| `pinlyx-mcp` | TypeScript (MCP server) | Alpha | [Pinlyx/pinlyx-mcp](https://github.com/Pinlyx/pinlyx-mcp) |
 
 ## Guides
 
 | Repo | What it is |
 |---|---|
-| [CRM-Solid/mcp-social-media-guide](https://github.com/CRM-Solid/mcp-social-media-guide) | Vendor-neutral tutorials for running social media DMs and scheduled posts through MCP |
+| [Pinlyx/mcp-social-media-guide](https://github.com/Pinlyx/mcp-social-media-guide) | Vendor-neutral tutorials for running social media DMs and scheduled posts through MCP |
 
 ## Get started
 
@@ -96,12 +96,12 @@ Full REST reference, webhooks, and authentication: https://docs.pinlyx.com
 
 | Repo | Purpose | Status |
 |---|---|---|
-| [`.github`](https://github.com/CRM-Solid/.github) | Org profile, community health files | Live |
-| [`pinlyx-clipper`](https://github.com/CRM-Solid/pinlyx-clipper) | Browser extension, full source of the published build | [Live on the Chrome Web Store](https://chromewebstore.google.com/detail/crm-solid-clipper-save-le/mbdeafjdkhilgbdaoenggfamombmgpfm) |
-| [`pinlyx-dotnet`](https://github.com/CRM-Solid/pinlyx-dotnet) | Official .NET SDK | Alpha |
+| [`.github`](https://github.com/Pinlyx/.github) | Org profile, community health files | Live |
+| [`pinlyx-clipper`](https://github.com/Pinlyx/pinlyx-clipper) | Browser extension, full source of the published build | [Live on the Chrome Web Store](https://chromewebstore.google.com/detail/crm-solid-clipper-save-le/mbdeafjdkhilgbdaoenggfamombmgpfm) |
+| [`pinlyx-dotnet`](https://github.com/Pinlyx/pinlyx-dotnet) | Official .NET SDK | Alpha |
 | `pinlyx-python` | Official Python SDK | Planned |
 | `pinlyx-node` | Official Node.js / TypeScript SDK | Planned |
-| [`pinlyx-mcp`](https://github.com/CRM-Solid/pinlyx-mcp) | MCP server reference implementation | Alpha |
+| [`pinlyx-mcp`](https://github.com/Pinlyx/pinlyx-mcp) | MCP server reference implementation | Alpha |
 | `pinlyx-docs` | Public docs site source | Planned |
 | `pinlyx-openapi` | OpenAPI spec mirror + generator | Planned |
 | `pinlyx-examples` | End-to-end examples across SDKs | Planned |
