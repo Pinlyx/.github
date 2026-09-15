@@ -1,26 +1,26 @@
 <div align="center">
 
-# CRM Solid
+# Pinlyx
 
 **Omnichannel AI CRM for modern customer-facing teams.**
 
-Talk to customers on Telegram, X, Email, Live Chat and via Bot — from one inbox, one pipeline, one API.
+Talk to customers on Telegram, X, Email, Live Chat and via Bot, from one inbox, one pipeline, one API.
 
-[Website](https://crmsolid.com) · [App](https://app.crmsolid.com) · [Chrome Extension](https://chromewebstore.google.com/detail/crm-solid-clipper-save-le/mbdeafjdkhilgbdaoenggfamombmgpfm) · [API Docs](https://crmsolid.com/docs) · [Status](https://health.crmsolid.com)
+[Website](https://pinlyx.com) · [App](https://app.crmsolid.com) · [Chrome Extension](https://chromewebstore.google.com/detail/crm-solid-clipper-save-le/mbdeafjdkhilgbdaoenggfamombmgpfm) · [API Docs](https://docs.pinlyx.com) · [Status](https://health.crmsolid.com)
 
 </div>
 
 ---
 
-## What CRM Solid is
+## What Pinlyx is
 
-CRM Solid is an omnichannel customer relationship platform that unifies five conversation channels behind one CRM:
+Pinlyx is an omnichannel customer relationship platform that unifies five conversation channels behind one CRM:
 
-- **Telegram** — multi-account, scraping, sequences, broadcasting
-- **X / Twitter** — DMs and account management
-- **Email** — per-user inbox, threading, templates
-- **Live Chat** — embeddable web widget for your site
-- **Bot** — programmable conversational workflows
+- **Telegram**: multi-account, scraping, sequences, broadcasting
+- **X / Twitter**: DMs and account management
+- **Email**: per-user inbox, threading, templates
+- **Live Chat**: embeddable web widget for your site
+- **Bot**: programmable conversational workflows
 
 On top of the inbox sit AI-powered lead scoring, automated outreach sequences, a public REST API, and an MCP server so AI agents can drive the CRM directly.
 
@@ -28,7 +28,7 @@ On top of the inbox sit AI-powered lead scoring, automated outreach sequences, a
 
 | Area | What ships today |
 |---|---|
-| Inbox | Telegram, X/Twitter, Email, Live Chat, Bot — all in one pane |
+| Inbox | Telegram, X/Twitter, Email, Live Chat, Bot, all in one pane |
 | Pipeline | Drag-and-drop stages, archive/restore, notes |
 | Outreach | Sequences, broadcasting, spintax, scheduling |
 | AI | Lead scoring, message analysis, reply suggestions |
@@ -51,8 +51,8 @@ On top of the inbox sit AI-powered lead scoring, automated outreach sequences, a
 | SDK | Language | Status | Repo |
 |---|---|---|---|
 | `crmsolid-dotnet` | C# / .NET 8+ | Alpha | [CRM-Solid/crmsolid-dotnet](https://github.com/CRM-Solid/crmsolid-dotnet) |
-| `crmsolid-python` | Python 3.10+ | Planned | _coming soon_ |
-| `crmsolid-node` | TypeScript / Node 20+ | Planned | _coming soon_ |
+| `pinlyx-python` | Python 3.10+ | Planned | _coming soon_ |
+| `pinlyx-node` | TypeScript / Node 20+ | Planned | _coming soon_ |
 | `crmsolid-mcp` | TypeScript (MCP server) | Alpha | [CRM-Solid/crmsolid-mcp](https://github.com/CRM-Solid/crmsolid-mcp) |
 
 ## Guides
@@ -65,7 +65,7 @@ On top of the inbox sit AI-powered lead scoring, automated outreach sequences, a
 
 ### 1. Create an API key
 
-Sign in to https://app.crmsolid.com, open **Settings → Developers**, and generate a key. Each key is scoped — pick the smallest scope that matches your use case.
+Sign in to https://app.crmsolid.com, open **Settings → Developers**, and generate a key. Each key is scoped: pick the smallest scope that matches your use case.
 
 ### 2. Install a SDK (example: .NET)
 
@@ -90,7 +90,7 @@ foreach (var c in page.Items)
 
 ### 3. Read the docs
 
-Full REST reference, webhooks, and authentication: https://crmsolid.com/docs
+Full REST reference, webhooks, and authentication: https://docs.pinlyx.com
 
 ## Open-source repositories
 
@@ -99,20 +99,20 @@ Full REST reference, webhooks, and authentication: https://crmsolid.com/docs
 | [`.github`](https://github.com/CRM-Solid/.github) | Org profile, community health files | Live |
 | [`crmsolid-clipper`](https://github.com/CRM-Solid/crmsolid-clipper) | Browser extension, full source of the published build | [Live on the Chrome Web Store](https://chromewebstore.google.com/detail/crm-solid-clipper-save-le/mbdeafjdkhilgbdaoenggfamombmgpfm) |
 | [`crmsolid-dotnet`](https://github.com/CRM-Solid/crmsolid-dotnet) | Official .NET SDK | Alpha |
-| `crmsolid-python` | Official Python SDK | Planned |
-| `crmsolid-node` | Official Node.js / TypeScript SDK | Planned |
+| `pinlyx-python` | Official Python SDK | Planned |
+| `pinlyx-node` | Official Node.js / TypeScript SDK | Planned |
 | [`crmsolid-mcp`](https://github.com/CRM-Solid/crmsolid-mcp) | MCP server reference implementation | Alpha |
-| `crmsolid-docs` | Public docs site source | Planned |
-| `crmsolid-openapi` | OpenAPI spec mirror + generator | Planned |
-| `crmsolid-examples` | End-to-end examples across SDKs | Planned |
+| `pinlyx-docs` | Public docs site source | Planned |
+| `pinlyx-openapi` | OpenAPI spec mirror + generator | Planned |
+| `pinlyx-examples` | End-to-end examples across SDKs | Planned |
 
 Stars and issues on these repos are welcome once they ship.
 
 ## Stay in touch
 
-- Website — https://crmsolid.com
-- App — https://app.crmsolid.com
-- Docs — https://crmsolid.com/docs
-- Support — info@crmsolid.com
-- Security — info@crmsolid.com _(dedicated security@ inbox coming soon)_
-- X / Twitter — [@crmsolid](https://x.com/crmsolid)
+- Website: https://pinlyx.com
+- App: https://app.crmsolid.com
+- Docs: https://docs.pinlyx.com
+- Support: info@crmsolid.com
+- Security: info@crmsolid.com _(dedicated security@ inbox coming soon)_
+- X / Twitter: [@crmsolid](https://x.com/crmsolid)
