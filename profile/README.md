@@ -113,6 +113,6 @@ Stars and issues on these repos are welcome once they ship.
 - Website: https://pinlyx.com
 - App: https://app.crmsolid.com
 - Docs: https://docs.pinlyx.com
-- Support: info@crmsolid.com
-- Security: info@crmsolid.com _(dedicated security@ inbox coming soon)_
+- Support: info@pinlyx.com
+- Security: info@pinlyx.com _(dedicated security@ inbox coming soon)_
 - X / Twitter: [@crmsolid](https://x.com/crmsolid)
