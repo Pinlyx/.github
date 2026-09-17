@@ -6,7 +6,7 @@
 
 Talk to customers on Telegram, X, Email, Live Chat and via Bot, from one inbox, one pipeline, one API.
 
-[Website](https://pinlyx.com) · [App](https://app.crmsolid.com) · [Chrome Extension](https://chromewebstore.google.com/detail/crm-solid-clipper-save-le/mbdeafjdkhilgbdaoenggfamombmgpfm) · [API Docs](https://docs.pinlyx.com) · [Status](https://health.crmsolid.com)
+[Website](https://pinlyx.com) · [App](https://app.pinlyx.com) · [Chrome Extension](https://chromewebstore.google.com/detail/crm-solid-clipper-save-le/mbdeafjdkhilgbdaoenggfamombmgpfm) · [API Docs](https://docs.pinlyx.com) · [Status](https://health.crmsolid.com)
 
 </div>
 
@@ -115,4 +115,4 @@ Stars and issues on these repos are welcome once they ship.
 - Docs: https://docs.pinlyx.com
 - Support: info@pinlyx.com
 - Security: info@pinlyx.com _(dedicated security@ inbox coming soon)_
-- X / Twitter: [@crmsolid](https://x.com/crmsolid)
+- X / Twitter: [@pinlyx](https://x.com/pinlyx)
